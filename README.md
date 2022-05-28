@@ -62,7 +62,7 @@
 > caranya adalah:
 
 > $ pkg install git
-> $ git clone https://github.com/INFINITYWARMAX/INFINITYWARMAX/SMS.py
+> $ git clone https://github.com/INFINITYWARMAX/INFINITYWARMAX
 > $ cd Spm-228.py
 > $ ls
 > $ python Smp-Sms-225.py
